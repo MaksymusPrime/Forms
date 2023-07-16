@@ -29,4 +29,7 @@ https://formmax7.netlify.app/
 
 ![Screenshot_3](https://github.com/MaksymusPrime/Forms/assets/121817168/22a7a890-da07-4c63-b935-4e8e9551eb1b)
 
+https://formmax8.netlify.app/
+
+![Screenshot_6](https://github.com/MaksymusPrime/Forms/assets/121817168/5ff6ba6b-a794-47ca-b0ba-3b6c406e186f)
 
